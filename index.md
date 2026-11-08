@@ -11,5 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [6. Membaca Pikiran Orang Lewat Bahasa Tubuh] (ebook/6.Membaca Pikiran Orang Lewat Bahasa Tubuh.pdf) - Dianata Eka Putra (2008)
 8. [7. Seporsi Mie Ayam Sebelum Mati] (ebook/7. Seporsi Mie Ayam Sebelum Mati.pdf) - Brian Khrisna (2025)
 9. [8. Sisi Tergelap Surga] (ebook/8. Sisi Tergelap Surga.pdf) - Brian Khrisna (2023)
-10. [9. Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain] (ebook/9. Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain.pdf) - Euny Hong (2020) 
+10. [9. Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain] (ebook/9. Nunchi Seni Membaca Pikiran dan Perasaan Orang Lain.pdf) - Euny Hong (2020)
+11. [10. The Let Them Theory] (ebook/10. The Let Them Theory.pdf) - Mel Robbins (2024)
 *Powered by GitHub Pages*
