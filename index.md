@@ -5,5 +5,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Modul Tutorial Pengajuan Hak Cipta](ebook/Modul Tutorial Pengajuan Hak Cipta.pdf) – Khairunnisa (2026) 
 2. [1. Berani Tidak Disukai] (ebook/1. Berani Tidak Disukai (Ichiro Kishimi, Fumitake Koga.pdf)) - Ichiro Kishimi, Fumitake Koga (2019)
 3. [2. Bumi] (ebook/2. Novel Bumi.pdf) - Tere Liye (2014)
-4. [3. Hujan bulan Juni Pilihan sajak] (ebook/3.Hujan bulan Juni Pilihan sajak.pdf) - Sapardi Djoko Damono (1994) 
+4. [3. Hujan bulan Juni Pilihan sajak] (ebook/3.Hujan bulan Juni Pilihan sajak.pdf) - Sapardi Djoko Damono (1994)
+5. [4. Hujan] (ebook/4. Hujan.pdf) - Tere Liye (2018)
 *Powered by GitHub Pages*
