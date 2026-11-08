@@ -9,4 +9,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [4. Hujan] (ebook/4. Hujan.pdf) - Tere Liye (2018)
 6. [5. Kebenaran yang Hilang Sisi Kelam Praktik Politik dan Kekuasaan dalam Sejarah Kaum Muslim] (ebook/5. Kebenaran yang Hilang Sisi Kelam Praktik Politik dan Kekuasaan dalam Sejarah Kaum Muslim.pdf) - Farag Fouda (2007)
 7. [6. Membaca Pikiran Orang Lewat Bahasa Tubuh] (ebook/6.Membaca Pikiran Orang Lewat Bahasa Tubuh.pdf) - Dianata Eka Putra (2008)
+8. [7. Seporsi Mie Ayam Sebelum Mati] (ebook/7. Seporsi Mie Ayam Sebelum Mati.pdf) - Brian Khrisna (2025)
 *Powered by GitHub Pages*
