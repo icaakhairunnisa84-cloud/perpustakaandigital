@@ -7,4 +7,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [2. Bumi] (ebook/2. Novel Bumi.pdf) - Tere Liye (2014)
 4. [3. Hujan bulan Juni Pilihan sajak] (ebook/3.Hujan bulan Juni Pilihan sajak.pdf) - Sapardi Djoko Damono (1994)
 5. [4. Hujan] (ebook/4. Hujan.pdf) - Tere Liye (2018)
+6. [5. Kebenaran yang Hilang Sisi Kelam Praktik Politik dan Kekuasaan dalam Sejarah Kaum Muslim] (ebook/5. Kebenaran yang Hilang Sisi Kelam Praktik Politik dan Kekuasaan dalam Sejarah Kaum Muslim.pdf) - Farag Fouda (2007) 
 *Powered by GitHub Pages*
