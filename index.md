@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-[Modul Tutorial Pengajuan Hak Cipta](ebook/Modul Tutorial Pengajuan Hak Cipta.pdf) – Khairunnisa (2026) 
+Contoh Praktik Awal: [Modul Tutorial Pengajuan Hak Cipta](ebook/Modul Tutorial Pengajuan Hak Cipta.pdf) – Khairunnisa (2026) 
 1. [Bumi](ebook/Bumi.pdf) – Tere Liye (2014)
 2. [Hujan bulan Juni Pilihan sajak](ebook/Hujan bulan Juni Pilihan sajak.pdf) – Sapardi Djoko Damono (1994)
 3. [Hujan](ebook/Hujan.pdf) – Tere Liye (2018)
