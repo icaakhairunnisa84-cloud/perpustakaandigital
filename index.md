@@ -1,5 +1,6 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+Nama: Khairunnisa NIM: 13040124120029 Kelas: A
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 Contoh Praktik Awal: [Modul Tutorial Pengajuan Hak Cipta](ebook/Modul Tutorial Pengajuan Hak Cipta.pdf) – Khairunnisa (2026) 
