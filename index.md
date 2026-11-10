@@ -15,4 +15,5 @@ Contoh Praktik Awal: [Modul Tutorial Pengajuan Hak Cipta](ebook/Modul Tutorial P
 9. [The Let Them Theory](ebook/The Let Them Theory.pdf) – Mel Robbins (2024)
 10. [Berani Tidak Disukai](ebook/Berani Tidak Disukai.pdf) – Ichiro Kishimi, Fumitake Koga (2019)
 11. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) – Khairunnisa (2026)
+    
 *Powered by GitHub Pages*
